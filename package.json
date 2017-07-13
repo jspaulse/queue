@@ -1,0 +1,16 @@
+{
+  "name": "queue",
+  "version": "1.0.0",
+  "description": "Queue implementation in Solidity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jpaulsen",
+  "license": "MIT",
+  "dependencies": {
+    "@monax/legacy-contracts": "^0.16.8",
+    "deployer": "file:deployer",
+    "solc": "^0.4.11"
+  }
+}

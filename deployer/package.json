@@ -1,0 +1,14 @@
+{
+  "name": "deployer",
+  "version": "0.0.1",
+  "description": "Burrow contract helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacob Paulsen",
+  "license": "MIT",
+  "dependencies": {
+    "@monax/legacy-contracts": "^0.16.8"
+  }
+}
